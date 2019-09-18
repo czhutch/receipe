@@ -1,13 +1,15 @@
 body {
     background-color: #FFF9C4;
     font-family: sans-serif;
-    color: #446655
+    color: #446655;
 }
 div {
     background-color: white;
-    border-radius: 20%;    
+    border-radius: 5%; 
+    margin: 0px;   
 }
 img {
     max-width: 80vw;
     border-radius: 75%;
+    
 }
